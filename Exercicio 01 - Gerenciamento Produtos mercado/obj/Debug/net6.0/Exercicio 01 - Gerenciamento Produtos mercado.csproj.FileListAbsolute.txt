@@ -1,0 +1,15 @@
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\bin\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.exe
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\bin\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.deps.json
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\bin\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.runtimeconfig.json
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\bin\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.dll
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\bin\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.pdb
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.csproj.AssemblyReference.cache
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.AssemblyInfoInputs.cache
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.AssemblyInfo.cs
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.csproj.CoreCompileInputs.cache
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.dll
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\refint\Exercicio 01 - Gerenciamento Produtos mercado.dll
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.pdb
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\Exercicio 01 - Gerenciamento Produtos mercado.genruntimeconfig.cache
+C:\Users\luizf\source\repos\bytebank\Exercicio 01 - Gerenciamento Produtos mercado\obj\Debug\net6.0\ref\Exercicio 01 - Gerenciamento Produtos mercado.dll
