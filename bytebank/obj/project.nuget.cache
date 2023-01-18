@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6tMLrZE48APjTDA4qBuobQ0GvFUSeSXmQUjGqXz5evNLTL7jSALsfFSLsuBUdiINgrQ9mk4F8SxPlgYjLq66Q==",
+  "dgSpecHash": "/t7/jkF9Cg95xeqqDWw/G2heHuBvkvAduc5hL6xj83HUaOS7ttYmVhSUKN9osJca/S7FU55zJRfdXAOsiL+EWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizf\\source\\repos\\bytebank\\bytebank\\bytebank.csproj",
+  "projectFilePath": "C:\\Users\\luizf\\PooCSharp\\bytebank\\bytebank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

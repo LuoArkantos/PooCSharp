@@ -1,0 +1,15 @@
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\bin\Debug\net6.0\ComposicaoDeClasse.exe
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\bin\Debug\net6.0\ComposicaoDeClasse.deps.json
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\bin\Debug\net6.0\ComposicaoDeClasse.runtimeconfig.json
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\bin\Debug\net6.0\ComposicaoDeClasse.dll
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\bin\Debug\net6.0\ComposicaoDeClasse.pdb
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.csproj.AssemblyReference.cache
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.AssemblyInfoInputs.cache
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.AssemblyInfo.cs
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.csproj.CoreCompileInputs.cache
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.dll
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\refint\ComposicaoDeClasse.dll
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.pdb
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ComposicaoDeClasse.genruntimeconfig.cache
+C:\Users\luizf\PooCSharp\ComposicaoDeClasse\obj\Debug\net6.0\ref\ComposicaoDeClasse.dll

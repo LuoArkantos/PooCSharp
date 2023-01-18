@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bytebank", "bytebank\bytebank.csproj", "{7B1478CD-6668-4B3C-8715-4E4A607288C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bytebank", "bytebank\bytebank.csproj", "{7B1478CD-6668-4B3C-8715-4E4A607288C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 01 - Gerenciamento Produtos mercado", "Exercicio 01 - Gerenciamento Produtos mercado\Exercicio 01 - Gerenciamento Produtos mercado.csproj", "{DE69F912-3840-4BF7-BCAD-7661707A88B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 01 - Gerenciamento Produtos mercado", "Exercicio 01 - Gerenciamento Produtos mercado\Exercicio 01 - Gerenciamento Produtos mercado.csproj", "{DE69F912-3840-4BF7-BCAD-7661707A88B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 02 - Dados de Paciente", "Exercicio 02 - Dados de Paciente\Exercicio 02 - Dados de Paciente.csproj", "{B9DCF570-0329-406A-B935-0AE209155B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DE69F912-3840-4BF7-BCAD-7661707A88B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE69F912-3840-4BF7-BCAD-7661707A88B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE69F912-3840-4BF7-BCAD-7661707A88B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DCF570-0329-406A-B935-0AE209155B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DCF570-0329-406A-B935-0AE209155B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DCF570-0329-406A-B935-0AE209155B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DCF570-0329-406A-B935-0AE209155B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

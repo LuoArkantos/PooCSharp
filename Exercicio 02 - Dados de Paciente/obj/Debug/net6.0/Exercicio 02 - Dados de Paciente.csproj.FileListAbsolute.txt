@@ -1,0 +1,15 @@
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\bin\Debug\net6.0\Exercicio 02 - Dados de Paciente.exe
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\bin\Debug\net6.0\Exercicio 02 - Dados de Paciente.deps.json
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\bin\Debug\net6.0\Exercicio 02 - Dados de Paciente.runtimeconfig.json
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\bin\Debug\net6.0\Exercicio 02 - Dados de Paciente.dll
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\bin\Debug\net6.0\Exercicio 02 - Dados de Paciente.pdb
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.csproj.AssemblyReference.cache
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.AssemblyInfoInputs.cache
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.AssemblyInfo.cs
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.csproj.CoreCompileInputs.cache
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.dll
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\refint\Exercicio 02 - Dados de Paciente.dll
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.pdb
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\Exercicio 02 - Dados de Paciente.genruntimeconfig.cache
+C:\Users\luizf\PooCSharp\Exercicio 02 - Dados de Paciente\obj\Debug\net6.0\ref\Exercicio 02 - Dados de Paciente.dll
