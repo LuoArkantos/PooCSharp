@@ -1,0 +1,15 @@
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\bin\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.exe
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\bin\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.deps.json
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\bin\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.runtimeconfig.json
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\bin\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.dll
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\bin\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.pdb
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.csproj.AssemblyReference.cache
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.AssemblyInfoInputs.cache
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.AssemblyInfo.cs
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.dll
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\refint\Exercicio 03 - Pedidos Fast Food.dll
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.pdb
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\Exercicio 03 - Pedidos Fast Food.genruntimeconfig.cache
+C:\Users\luizf\PooCSharp\Exercicio 03 - Pedidos Fast Food\obj\Debug\net6.0\ref\Exercicio 03 - Pedidos Fast Food.dll

@@ -1,67 +1,65 @@
 ﻿using bytebank;
-/*
-// criando obj Andre
-ContaCorrente contaDoAndre = new ContaCorrente();
 
-contaDoAndre.titular = "André";
-contaDoAndre.agencia = 15;
-contaDoAndre.conta = "1010-x";
-contaDoAndre.saldo = 100;
+//// criando obj Andre
+//ContaCorrente contaDoAndre = new ContaCorrente();
 
-Console.WriteLine($"Saldo Inicial de {contaDoAndre.titular} é R${contaDoAndre.saldo}");
+//contaDoAndre.titular = "André";
+//contaDoAndre.agencia = 15;
+//contaDoAndre.conta = "1010-x";
+//contaDoAndre.saldo = 100;
 
-// criando obj Maria
-ContaCorrente contaDaMaria = new ContaCorrente();
+//Console.WriteLine($"Saldo Inicial de {contaDoAndre.titular} é R${contaDoAndre.saldo}");
 
-contaDaMaria.titular = "Maria";
-contaDaMaria.agencia = 17;
-contaDaMaria.conta = "1010-5";
-contaDaMaria.saldo = 350;
+//// criando obj Maria
+//ContaCorrente contaDaMaria = new ContaCorrente();
 
-Console.WriteLine($"Saldo Inicial de {contaDaMaria.titular} é R${contaDaMaria.saldo}");
+//contaDaMaria.titular = "Maria";
+//contaDaMaria.agencia = 17;
+//contaDaMaria.conta = "1010-5";
+//contaDaMaria.saldo = 350;
 
-// Mtd para tranferir valores entre contas
-contaDoAndre.Transferir(50, contaDaMaria);
+//Console.WriteLine($"Saldo Inicial de {contaDaMaria.titular} é R${contaDaMaria.saldo}");
 
-Console.WriteLine($"Saldo final da conta do Andre: {contaDoAndre.saldo}");
-Console.WriteLine($"Saldo final da conta do Andre: {contaDaMaria.saldo}");
+//// Mtd para tranferir valores entre contas
+//contaDoAndre.Transferir(50, contaDaMaria);
 
-// Para mostrar valores padrão do obj
-ContaCorrente contaDoPedro = new ContaCorrente();
+//Console.WriteLine($"Saldo final da conta do Andre: {contaDoAndre.saldo}");
+//Console.WriteLine($"Saldo final da conta do Andre: {contaDaMaria.saldo}");
 
-Console.WriteLine(contaDoPedro.titular);
-Console.WriteLine(contaDoPedro.agencia);
-Console.WriteLine(contaDoPedro.conta);
-Console.WriteLine(contaDoPedro.saldo);
+//// Para mostrar valores padrão do obj
+//ContaCorrente contaDoPedro = new ContaCorrente();
 
-/******************************************************
- * SAQUE E DEPOSITO
+//Console.WriteLine(contaDoPedro.titular);
+//Console.WriteLine(contaDoPedro.agencia);
+//Console.WriteLine(contaDoPedro.conta);
+//Console.WriteLine(contaDoPedro.saldo);
 
-Console.WriteLine("Saldo da conta: " + contaDoAndre.saldo);
+////SAQUE E DEPOSITO
 
-contaDoAndre.Depositar(150);
-Console.WriteLine("Saldo Atualizado: " + contaDoAndre.saldo);
+//Console.WriteLine("Saldo da conta: " + contaDoAndre.saldo);
 
-if (contaDoAndre.Sacar(400) == true)
-{
-    Console.WriteLine($"{contaDoAndre.titular} sacou R$ 100 ");
-}
-else
-{
-    Console.WriteLine("Saldo Insuficiente para Saque");
-}
+//contaDoAndre.Depositar(150);
+//Console.WriteLine("Saldo Atualizado: " + contaDoAndre.saldo);
 
-Console.WriteLine();
-Console.WriteLine("Saldo Atualizado: " + contaDoAndre.saldo);
+//if (contaDoAndre.Sacar(400) == true)
+//{
+//    Console.WriteLine($"{contaDoAndre.titular} sacou R$ 100 ");
+//}
+//else
+//{
+//    Console.WriteLine("Saldo Insuficiente para Saque");
+//}
+
+//Console.WriteLine();
+//Console.WriteLine("Saldo Atualizado: " + contaDoAndre.saldo);
 
 
-Console.ReadLine();
+//Console.ReadLine();
 
-***************************************************** /
 
-//metodo q exibe os dados do cliente
-contaDaMaria.exibirInformações();
-*/
+////metodo q exibe os dados do cliente
+//contaDaMaria.exibirInformações();
+
 
 Cliente cliente = new Cliente();
 cliente.nome = "Andre";
